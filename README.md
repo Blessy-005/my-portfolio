@@ -17,4 +17,4 @@ This repository contains my personal portfolio website built using HTML and CSS.
 - Media Queries
 
 ## Live Demo
-https://yourusername.github.io/repo-name/
+https://blessy-005.github.io/my-portfolio/
